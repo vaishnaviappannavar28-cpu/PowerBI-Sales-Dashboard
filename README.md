@@ -38,10 +38,10 @@ SuperStore Sales Dataset
 
 ## Dashboard Preview
 
-(Add Dashboard.png here after uploading)
+![Dashboard](Dashboard.png)
 
 ---
 
 ## Forecast Preview
 
-(Add Forecast.png here after uploading)
+![Forecast](Forecast.png)
